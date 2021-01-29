@@ -1,0 +1,10 @@
+Boolean(3)
+true
+Boolean(-1)
+true
+Boolean(-1)
+true
+Boolean(NaN)
+false
+Boolean(undefined)
+false
